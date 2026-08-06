@@ -1,0 +1,6 @@
+{
+  "name": "SuperEconomico Dashboard",
+  "description": "Professional dark-store administration, financial reporting, and driver logistics dashboard for the SuperEconomico delivery-only supermarket.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
